@@ -1,3 +1,3 @@
 print(2+3)
 
-print("resultado es ")
+print("resultado es iguial ")
